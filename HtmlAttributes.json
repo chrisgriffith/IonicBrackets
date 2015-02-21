@@ -251,6 +251,7 @@
 	"locking":              { "attribOption": [], "type": "boolean" },
 	"max-zoom":              { "attribOption": [] },
 	"min-zoom":              { "attribOption": [] },
+	"ng-app":              { "attribOption": [] },
 	"ng-change":              { "attribOption": [] },
 	"ng-click":              { "attribOption": [] },
 	"ng-controller":              { "attribOption": [] },
