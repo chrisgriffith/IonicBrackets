@@ -275,7 +275,7 @@
 	"data-ng-pluralize": { "attribOption": [] , "global": "true" },
 	"data-ng-view": { "attribOption": [] , "global": "true" },
 	"data-ng-swipe-left": { "attribOption": [] , "global": "true" },
-	"data-ng-swipe-right": { "attribOption": [] , "global": "true" }
+	"data-ng-swipe-right": { "attribOption": [] , "global": "true" },
 	"delegate-handle":              { "attribOption": [] },
 	"disable-pulling-rotation":              { "attribOption": [], "type": "boolean"},
 	"distance":              { "attribOption": [] },
